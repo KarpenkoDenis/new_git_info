@@ -29,4 +29,7 @@
 Чтобы создать ветку, нужно:
 > git branch branch_name
 
+Для того, чтобы удалить ветку branch_name, нужно написать:
+>git branch -d branch_name
+
 ![какая-то картинка](pic.jpg)
