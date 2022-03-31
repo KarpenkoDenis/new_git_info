@@ -23,4 +23,10 @@
 и чтобы вернуться:
 > git checkout master
 
+Для просмотра всех веток:
+> git branch
+
+Чтобы создать ветку, нужно:
+> git branch branch_name
+
 ![какая-то картинка](pic.jpg)
